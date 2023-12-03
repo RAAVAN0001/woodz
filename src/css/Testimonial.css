@@ -1,0 +1,21 @@
+/* Testimonial.css */
+
+.section-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    /* margin: 10px 0; */
+}
+
+.testimonial-section {
+    text-align: center;
+}
+
+.testimonial-item {
+    margin-bottom: 20px;
+}
+
+/* Add additional styles as needed */
